@@ -2,4 +2,5 @@
 int main()
 {
   printf("Hello github");
+  printf("pull the test.c file");
 }
